@@ -1,4 +1,4 @@
-# Deep Average Network
+# Generative Chit Chat
 
 ## Как сделать домашку
 - Склонируйте этот репозиторий
